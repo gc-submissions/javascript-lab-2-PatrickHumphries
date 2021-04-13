@@ -44,4 +44,6 @@ function fight(player1, player2, player1Health, player2Health) {
     }
 }
 
-console.log(fight("Patrick", "Trump", 1000, 10));
+console.log(fight("Bernie", "Trump", 1000, 10));
+
+  
